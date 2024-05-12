@@ -1,0 +1,185 @@
+<mxfile host="Electron" modified="2023-11-29T12:50:35.366Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.2 Chrome/114.0.5735.289 Electron/25.9.4 Safari/537.36" etag="0PxxMrFKZVZauju1zBxy" version="22.1.2" type="device">
+  <diagram name="Seite-1" id="Ti3z9q4UfAF7MEcEbZsg">
+    <mxGraphModel dx="1098" dy="640" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="0b_JQCROYDUmc5W2gEvc-57" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="0b_JQCROYDUmc5W2gEvc-22" target="0b_JQCROYDUmc5W2gEvc-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0b_JQCROYDUmc5W2gEvc-56" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="0b_JQCROYDUmc5W2gEvc-16" target="0b_JQCROYDUmc5W2gEvc-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0b_JQCROYDUmc5W2gEvc-7" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;endArrow=none;endFill=0;" parent="1" source="0b_JQCROYDUmc5W2gEvc-1" target="0b_JQCROYDUmc5W2gEvc-28" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="599.4328053984343" y="112.86488449465446" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0b_JQCROYDUmc5W2gEvc-1" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Kunde&lt;/font&gt;" style="shape=umlActor;html=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="1100" y="110" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0b_JQCROYDUmc5W2gEvc-8" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;endArrow=none;endFill=0;" parent="1" source="0b_JQCROYDUmc5W2gEvc-3" target="0b_JQCROYDUmc5W2gEvc-28" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="492.1265871741716" y="115.50764716935714" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0b_JQCROYDUmc5W2gEvc-30" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="0b_JQCROYDUmc5W2gEvc-3" target="0b_JQCROYDUmc5W2gEvc-32" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="150" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0b_JQCROYDUmc5W2gEvc-3" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Bankautomat&lt;/font&gt;" style="shape=umlActor;html=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="50" y="130" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0b_JQCROYDUmc5W2gEvc-55" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="0b_JQCROYDUmc5W2gEvc-4" target="0b_JQCROYDUmc5W2gEvc-37" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0b_JQCROYDUmc5W2gEvc-4" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Techniker&lt;/font&gt;" style="shape=umlActor;html=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="1100" y="290" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0b_JQCROYDUmc5W2gEvc-5" value="a_02_03_02" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=160;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="135" y="20" width="945" height="580" as="geometry" />
+        </mxCell>
+        <mxCell id="0b_JQCROYDUmc5W2gEvc-11" value="&lt;br&gt;extension point: auszahlung" style="html=1;shape=mxgraph.sysml.useCaseExtPt;whiteSpace=wrap;align=center;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="327.5" y="213" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0b_JQCROYDUmc5W2gEvc-12" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;Geldbetrag&lt;/span&gt;" style="resizable=0;html=1;verticalAlign=middle;align=center;labelBackgroundColor=none;fontStyle=1;" parent="0b_JQCROYDUmc5W2gEvc-11" connectable="0" vertex="1">
+          <mxGeometry x="80" y="17" as="geometry" />
+        </mxCell>
+        <mxCell id="0b_JQCROYDUmc5W2gEvc-13" value="" style="edgeStyle=none;html=1;endArrow=block;endFill=0;endSize=12;verticalAlign=bottom;rounded=0;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="0b_JQCROYDUmc5W2gEvc-18" target="0b_JQCROYDUmc5W2gEvc-28" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="424.0269302977333" y="220" as="sourcePoint" />
+            <mxPoint x="508.7842496931755" y="125.05217122127397" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0b_JQCROYDUmc5W2gEvc-14" value="" style="edgeStyle=none;html=1;endArrow=block;endFill=0;endSize=12;verticalAlign=bottom;rounded=0;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="0b_JQCROYDUmc5W2gEvc-11" target="0b_JQCROYDUmc5W2gEvc-28" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="410" y="300" as="sourcePoint" />
+            <mxPoint x="526.9057546709334" y="128.88669402960932" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0b_JQCROYDUmc5W2gEvc-16" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;zeigen&lt;/span&gt;" style="shape=ellipse;html=1;strokeWidth=1;fontStyle=1;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="150" y="353" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0b_JQCROYDUmc5W2gEvc-17" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;endArrow=open;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="0b_JQCROYDUmc5W2gEvc-18" target="0b_JQCROYDUmc5W2gEvc-16" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="280" y="303" as="sourcePoint" />
+            <mxPoint x="213.99999999999977" y="293" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0b_JQCROYDUmc5W2gEvc-18" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;Kontostand&lt;/span&gt;" style="shape=ellipse;html=1;strokeWidth=1;fontStyle=1;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="170" y="223" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0b_JQCROYDUmc5W2gEvc-19" value="Condition: Konto == gedeckt&#xa;extension point: auszahlung" style="shape=note;size=15;spacingLeft=5;align=left;whiteSpace=wrap;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="430" y="370" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0b_JQCROYDUmc5W2gEvc-20" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="align=right;html=1;verticalAlign=bottom;rounded=0;labelBackgroundColor=none;endArrow=open;endSize=12;dashed=1;entryX=0.331;entryY=0.95;entryDx=0;entryDy=0;entryPerimeter=0;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="0b_JQCROYDUmc5W2gEvc-22" target="0b_JQCROYDUmc5W2gEvc-11" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="427.5" y="473" as="targetPoint" />
+            <mxPoint x="587.5" y="473" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0b_JQCROYDUmc5W2gEvc-21" value="" style="edgeStyle=none;html=1;endArrow=none;rounded=0;labelBackgroundColor=none;dashed=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="0b_JQCROYDUmc5W2gEvc-19" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="367.5" y="363" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0b_JQCROYDUmc5W2gEvc-22" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;Auszahlung&lt;/span&gt;" style="shape=ellipse;html=1;strokeWidth=1;fontStyle=1;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="290" y="410" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0b_JQCROYDUmc5W2gEvc-24" value="Condition: technisches Problem == TRUE&#xa;extension point: fehlermeldung" style="shape=note;size=15;spacingLeft=5;align=left;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="657.5" y="140" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0b_JQCROYDUmc5W2gEvc-25" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="align=right;html=1;verticalAlign=bottom;rounded=0;labelBackgroundColor=none;endArrow=open;endSize=12;dashed=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="0b_JQCROYDUmc5W2gEvc-27" target="0b_JQCROYDUmc5W2gEvc-28" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="140" as="targetPoint" />
+            <mxPoint x="947.5" y="494" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0b_JQCROYDUmc5W2gEvc-26" value="" style="edgeStyle=none;html=1;endArrow=none;rounded=0;labelBackgroundColor=none;dashed=1;exitX=0.5;exitY=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="0b_JQCROYDUmc5W2gEvc-24" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="580" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0b_JQCROYDUmc5W2gEvc-31" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="0b_JQCROYDUmc5W2gEvc-32" target="0b_JQCROYDUmc5W2gEvc-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="900" y="380" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0b_JQCROYDUmc5W2gEvc-27" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;Problem&lt;/span&gt;" style="shape=ellipse;html=1;strokeWidth=1;fontStyle=1;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="547.5" y="213" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0b_JQCROYDUmc5W2gEvc-28" value="&lt;br&gt;extension point: fehlermeldung" style="html=1;shape=mxgraph.sysml.useCaseExtPt;whiteSpace=wrap;align=center;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="462.5" y="70" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0b_JQCROYDUmc5W2gEvc-29" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;Funktion&lt;/span&gt;" style="resizable=0;html=1;verticalAlign=middle;align=center;labelBackgroundColor=none;fontStyle=1;" parent="0b_JQCROYDUmc5W2gEvc-28" connectable="0" vertex="1">
+          <mxGeometry x="80" y="17" as="geometry">
+            <mxPoint x="-7" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0b_JQCROYDUmc5W2gEvc-32" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;Fehlermeldung&lt;/span&gt;" style="shape=ellipse;html=1;strokeWidth=1;fontStyle=1;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="512.5" y="310" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0b_JQCROYDUmc5W2gEvc-33" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;endArrow=open;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="0b_JQCROYDUmc5W2gEvc-27" target="0b_JQCROYDUmc5W2gEvc-32" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="743.93" y="393.03" as="sourcePoint" />
+            <mxPoint x="729.93" y="483.03" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0b_JQCROYDUmc5W2gEvc-36" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;endArrow=open;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="0b_JQCROYDUmc5W2gEvc-27" target="0b_JQCROYDUmc5W2gEvc-37" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="819.69" y="377.92" as="sourcePoint" />
+            <mxPoint x="740.5556171117962" y="240.16435505790605" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0b_JQCROYDUmc5W2gEvc-37" value="&lt;br&gt;extension points: fehlerloesung, austausch&amp;nbsp;" style="html=1;shape=mxgraph.sysml.useCaseExtPt;whiteSpace=wrap;align=center;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="740" y="193" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0b_JQCROYDUmc5W2gEvc-38" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;Behebung&lt;/span&gt;" style="resizable=0;html=1;verticalAlign=middle;align=center;labelBackgroundColor=none;fontStyle=1;" parent="0b_JQCROYDUmc5W2gEvc-37" connectable="0" vertex="1">
+          <mxGeometry x="80" y="17" as="geometry">
+            <mxPoint x="-7" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0b_JQCROYDUmc5W2gEvc-40" value="Condition: Lösung == möglich&#xa;extension point: fehlerloesung" style="shape=note;size=15;spacingLeft=5;align=left;whiteSpace=wrap;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="860" y="347" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0b_JQCROYDUmc5W2gEvc-41" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="align=right;html=1;verticalAlign=bottom;rounded=0;labelBackgroundColor=none;endArrow=open;endSize=12;dashed=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="0b_JQCROYDUmc5W2gEvc-43" target="0b_JQCROYDUmc5W2gEvc-37" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="689.5" y="373" as="targetPoint" />
+            <mxPoint x="890" y="360" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0b_JQCROYDUmc5W2gEvc-42" value="" style="edgeStyle=none;html=1;endArrow=none;rounded=0;labelBackgroundColor=none;dashed=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="0b_JQCROYDUmc5W2gEvc-40" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="820" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0b_JQCROYDUmc5W2gEvc-43" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;Fehlerlösung&lt;/span&gt;" style="shape=ellipse;html=1;strokeWidth=1;fontStyle=1;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="770" y="436" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0b_JQCROYDUmc5W2gEvc-44" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;Funktion&lt;/span&gt;" style="resizable=0;html=1;verticalAlign=middle;align=center;labelBackgroundColor=none;fontStyle=1;" parent="1" connectable="0" vertex="1">
+          <mxGeometry x="670" y="310" as="geometry">
+            <mxPoint x="-7" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0b_JQCROYDUmc5W2gEvc-50" value="Condition: Lösung == FALSE&#xa;extension point: austausch" style="shape=note;size=15;spacingLeft=5;align=left;whiteSpace=wrap;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="670" y="520" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0b_JQCROYDUmc5W2gEvc-51" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="align=right;html=1;verticalAlign=bottom;rounded=0;labelBackgroundColor=none;endArrow=open;endSize=12;dashed=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="0b_JQCROYDUmc5W2gEvc-53" target="0b_JQCROYDUmc5W2gEvc-37" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="299.5" y="499" as="targetPoint" />
+            <mxPoint x="685" y="843" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0b_JQCROYDUmc5W2gEvc-52" value="" style="edgeStyle=none;html=1;endArrow=none;rounded=0;labelBackgroundColor=none;dashed=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="0b_JQCROYDUmc5W2gEvc-50" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="680" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0b_JQCROYDUmc5W2gEvc-53" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;Austausch des Bankomaten&lt;/span&gt;" style="shape=ellipse;html=1;strokeWidth=1;fontStyle=1;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="560" y="460" width="110" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

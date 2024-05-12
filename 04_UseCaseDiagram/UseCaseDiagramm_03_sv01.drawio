@@ -1,0 +1,165 @@
+<mxfile host="Electron" modified="2023-11-29T15:11:19.954Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.2 Chrome/114.0.5735.289 Electron/25.9.4 Safari/537.36" etag="vqbuGWmXakMqJjzkqCL3" version="22.1.2" type="device">
+  <diagram name="Seite-1" id="XCTMCxYNGAJNG0NEjEiD">
+    <mxGraphModel dx="1434" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="LzE11wuo5b0aVE-FT33L-1" value="a_02_03_03" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=160;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="100" y="20" width="960" height="660" as="geometry" />
+        </mxCell>
+        <mxCell id="LzE11wuo5b0aVE-FT33L-6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="LzE11wuo5b0aVE-FT33L-2" target="LzE11wuo5b0aVE-FT33L-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="490" y="135.72727272727275" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LzE11wuo5b0aVE-FT33L-31" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="LzE11wuo5b0aVE-FT33L-2" target="LzE11wuo5b0aVE-FT33L-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LzE11wuo5b0aVE-FT33L-32" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="LzE11wuo5b0aVE-FT33L-2" target="LzE11wuo5b0aVE-FT33L-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LzE11wuo5b0aVE-FT33L-35" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="LzE11wuo5b0aVE-FT33L-2" target="LzE11wuo5b0aVE-FT33L-45">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="267.541719432018" y="330.3269139977101" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LzE11wuo5b0aVE-FT33L-2" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;User&lt;/font&gt;" style="shape=umlActor;html=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="60" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LzE11wuo5b0aVE-FT33L-7" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="LzE11wuo5b0aVE-FT33L-3" target="LzE11wuo5b0aVE-FT33L-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="700" y="135.94339622641508" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LzE11wuo5b0aVE-FT33L-18" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="LzE11wuo5b0aVE-FT33L-3" target="LzE11wuo5b0aVE-FT33L-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LzE11wuo5b0aVE-FT33L-26" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="LzE11wuo5b0aVE-FT33L-3" target="LzE11wuo5b0aVE-FT33L-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LzE11wuo5b0aVE-FT33L-30" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="LzE11wuo5b0aVE-FT33L-3" target="LzE11wuo5b0aVE-FT33L-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LzE11wuo5b0aVE-FT33L-38" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="LzE11wuo5b0aVE-FT33L-3" target="LzE11wuo5b0aVE-FT33L-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LzE11wuo5b0aVE-FT33L-44" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="LzE11wuo5b0aVE-FT33L-3" target="LzE11wuo5b0aVE-FT33L-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LzE11wuo5b0aVE-FT33L-3" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Programm&lt;/font&gt;" style="shape=umlActor;html=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="530" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LzE11wuo5b0aVE-FT33L-8" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;Nutzen des Programmes&lt;/span&gt;" style="shape=ellipse;html=1;strokeWidth=1;fontStyle=1;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="530" y="100" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LzE11wuo5b0aVE-FT33L-9" value="&lt;br&gt;extension points: fehler, speichern" style="html=1;shape=mxgraph.sysml.useCaseExtPt;whiteSpace=wrap;align=center;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="640" y="210" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LzE11wuo5b0aVE-FT33L-10" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;Vokabel eingeben&lt;/span&gt;" style="resizable=0;html=1;verticalAlign=middle;align=center;labelBackgroundColor=none;fontStyle=1;" connectable="0" vertex="1" parent="LzE11wuo5b0aVE-FT33L-9">
+          <mxGeometry x="80" y="17" as="geometry">
+            <mxPoint x="-5" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LzE11wuo5b0aVE-FT33L-13" value="Condition: Vokabel ist vorhanden == TRUE&#xa;extension point: fehler" style="shape=note;size=15;spacingLeft=5;align=left;whiteSpace=wrap;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="790" y="270" width="260" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LzE11wuo5b0aVE-FT33L-14" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="align=right;html=1;verticalAlign=bottom;rounded=0;labelBackgroundColor=none;endArrow=open;endSize=12;dashed=1;" edge="1" parent="1" source="LzE11wuo5b0aVE-FT33L-17">
+          <mxGeometry x="-0.1242" y="17" relative="1" as="geometry">
+            <mxPoint x="735" y="304" as="targetPoint" />
+            <mxPoint x="735" y="374" as="sourcePoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LzE11wuo5b0aVE-FT33L-15" value="" style="edgeStyle=none;html=1;endArrow=none;rounded=0;labelBackgroundColor=none;dashed=1;" edge="1" source="LzE11wuo5b0aVE-FT33L-13" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="840" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LzE11wuo5b0aVE-FT33L-17" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;Fehlermeldung&lt;/span&gt;" style="shape=ellipse;html=1;strokeWidth=1;fontStyle=1;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="900" y="350" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LzE11wuo5b0aVE-FT33L-22" value="Condition: Vokabel ist vorhanden == FALSE&#xa;extension point: speichern" style="shape=note;size=15;spacingLeft=5;align=left;whiteSpace=wrap;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="710" y="400" width="260" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LzE11wuo5b0aVE-FT33L-23" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="align=right;html=1;verticalAlign=bottom;rounded=0;labelBackgroundColor=none;endArrow=open;endSize=12;dashed=1;" edge="1" source="LzE11wuo5b0aVE-FT33L-25" parent="1" target="LzE11wuo5b0aVE-FT33L-9">
+          <mxGeometry x="0.1181" y="2" relative="1" as="geometry">
+            <mxPoint x="535" y="427" as="targetPoint" />
+            <mxPoint x="535" y="497" as="sourcePoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LzE11wuo5b0aVE-FT33L-24" value="" style="edgeStyle=none;html=1;endArrow=none;rounded=0;labelBackgroundColor=none;dashed=1;" edge="1" source="LzE11wuo5b0aVE-FT33L-22" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="690" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LzE11wuo5b0aVE-FT33L-25" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;Vokabel speichern&lt;/span&gt;" style="shape=ellipse;html=1;strokeWidth=1;fontStyle=1;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="610" y="450" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LzE11wuo5b0aVE-FT33L-27" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;Vokabel trainieren&lt;/span&gt;" style="shape=ellipse;html=1;strokeWidth=1;fontStyle=1;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="440" y="200" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LzE11wuo5b0aVE-FT33L-28" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;Vokabel angezeigt&lt;/span&gt;" style="shape=ellipse;html=1;strokeWidth=1;fontStyle=1;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="400" y="280" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LzE11wuo5b0aVE-FT33L-29" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;endArrow=open;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;" edge="1" parent="1" source="LzE11wuo5b0aVE-FT33L-27" target="LzE11wuo5b0aVE-FT33L-28">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="480" y="270" as="sourcePoint" />
+            <mxPoint x="640" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LzE11wuo5b0aVE-FT33L-34" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;endArrow=open;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;" edge="1" parent="1" source="LzE11wuo5b0aVE-FT33L-28" target="LzE11wuo5b0aVE-FT33L-45">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="371.07" y="320.31" as="sourcePoint" />
+            <mxPoint x="320.1378838973469" y="333.8505878062924" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LzE11wuo5b0aVE-FT33L-36" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;Erfolgsquote ausgeben&lt;/span&gt;" style="shape=ellipse;html=1;strokeWidth=1;fontStyle=1;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="180" y="460" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LzE11wuo5b0aVE-FT33L-37" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;endArrow=open;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;" edge="1" target="LzE11wuo5b0aVE-FT33L-36" parent="1" source="LzE11wuo5b0aVE-FT33L-45">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="275.5772818958874" y="359.9591935874396" as="sourcePoint" />
+            <mxPoint x="320.07" y="450.34000000000003" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LzE11wuo5b0aVE-FT33L-40" value="Condition: Antwort zuvor falsch == TRUE&#xa;extension point: korrekte_antwort" style="shape=note;size=15;spacingLeft=5;align=left;whiteSpace=wrap;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="350" y="380" width="260" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LzE11wuo5b0aVE-FT33L-41" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="align=right;html=1;verticalAlign=bottom;rounded=0;labelBackgroundColor=none;endArrow=open;endSize=12;dashed=1;" edge="1" source="LzE11wuo5b0aVE-FT33L-43" parent="1" target="LzE11wuo5b0aVE-FT33L-45">
+          <mxGeometry x="-0.6389" y="-48" relative="1" as="geometry">
+            <mxPoint x="291.1651532017779" y="359.7380022263469" as="targetPoint" />
+            <mxPoint x="270" y="647" as="sourcePoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LzE11wuo5b0aVE-FT33L-42" value="" style="edgeStyle=none;html=1;endArrow=none;rounded=0;labelBackgroundColor=none;dashed=1;" edge="1" source="LzE11wuo5b0aVE-FT33L-40" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LzE11wuo5b0aVE-FT33L-43" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;korrekte Antwort anzeigen&lt;/span&gt;" style="shape=ellipse;html=1;strokeWidth=1;fontStyle=1;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="400" y="553" width="110" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="LzE11wuo5b0aVE-FT33L-45" value="&lt;br&gt;extension point:&amp;nbsp;korrekte_antwort" style="html=1;shape=mxgraph.sysml.useCaseExtPt;whiteSpace=wrap;align=center;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="200" y="290" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LzE11wuo5b0aVE-FT33L-46" value="Antworten eingeben" style="resizable=0;html=1;verticalAlign=middle;align=center;labelBackgroundColor=none;fontStyle=1;" connectable="0" vertex="1" parent="LzE11wuo5b0aVE-FT33L-45">
+          <mxGeometry x="80" y="17" as="geometry" />
+        </mxCell>
+        <mxCell id="LzE11wuo5b0aVE-FT33L-47" value="" style="edgeStyle=none;html=1;endArrow=block;endFill=0;endSize=12;verticalAlign=bottom;rounded=0;" edge="1" parent="1" source="LzE11wuo5b0aVE-FT33L-27" target="LzE11wuo5b0aVE-FT33L-8">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="480" y="270" as="sourcePoint" />
+            <mxPoint x="640" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LzE11wuo5b0aVE-FT33L-48" value="" style="edgeStyle=none;html=1;endArrow=block;endFill=0;endSize=12;verticalAlign=bottom;rounded=0;" edge="1" parent="1" source="LzE11wuo5b0aVE-FT33L-9" target="LzE11wuo5b0aVE-FT33L-8">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="480" y="270" as="sourcePoint" />
+            <mxPoint x="640" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
